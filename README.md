@@ -1,6 +1,6 @@
 # Portfolio Github Web Page
 
-[<img src ="https://img.shields.io/badge/Website-psg-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://omkar.github.io/) 
+[<img src ="https://img.shields.io/badge/Website-om-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://omkar.github.io/) 
 
 View my portfolio through badge above, and to connect follow the links below, Thank-you!
 
